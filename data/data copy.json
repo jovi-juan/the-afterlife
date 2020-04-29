@@ -1,0 +1,11 @@
+{
+	"videos": [{
+			"video": "thecrossing.jpg",
+			"text": ["It’s one thing to see the images everywhere of empty squares and streets", ", it’s another to really see it,", " to stand still and feel the quiet of a hollowed out place at what was called rush hour."]
+		},
+		{
+			"video": "threetribs.gif",
+			"text": ["Vicious intersections, like Charing Cross and Piccadilly Circus", ", places marked in the minds of many commuters by snarling flesh and grimaced metal,", " have turned friendly and calm."]
+		}
+	]
+}

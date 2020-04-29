@@ -1,0 +1,31 @@
+<div itemscope itemtype="https://schema.org/VideoObject"><meta itemprop="uploadDate" content="Mon Apr 27 2020 08:34:17 GMT+0100 (British Summer Time)"/><meta itemprop="name" content="Trafalgar Square"/><meta itemprop="description" content="Static video of trafalgar sqare"/><meta itemprop="duration" content="PT1M0.88S" /><meta itemprop="thumbnailUrl" content="https://content.jwplatform.com/thumbs/GLTau6U6-1920.jpg"/><meta itemprop="contentUrl" content="https://content.jwplatform.com/videos/GLTau6U6-cdET290X.mp4"/><script src="https://cdn.jwplayer.com/players/GLTau6U6-yU83XMDi.js"></script></div>
+
+<http|s>://<APIserver>/<APIversion>/<callClass>/<callSubclass>/<method|attribute>[?<parameters>]
+
+https://cdn.jwplayer.com/libraries/{key}.js
+
+OeAWgiKA
+
+https://cdn.jwplayer.com/libraries/OeAWgiKA.js
+
+Playlist 1
+https://cdn.jwplayer.com/v2/playlists/1DhpbNed
+
+https://cdn.jwplayer.com/v2/playlists/1DhpbNed?format=mrss
+
+Playlist 2
+https://cdn.jwplayer.com/v2/playlists/MlYK5ke1
+
+
+
+curl -X GET https://api.jwplatform.com/v1/players/list?api_nonce=80684812&api_timestamp=1237387841&api_format=json
+&api_signature=fbdee51a45980f9876834dc5ee1tz5e93f67cb89&api_key=abC432d1
+curl -X GET https://api.jwplatform.com/v1/players/list?api_nonce=80684812&api_timestamp=1237387841&api_format=json
+&api_signature=fbdee51a45980f9876834dc5ee1tz5e93f67cb89&api_key=abC432d1
+
+curl -X GET https://api.jwplatform.com/v1/players/list?api_key=OeAWgiKA1&api_format=json
+
+Scaled player
+https://cdn.jwplayer.com/libraries/3fkzEB7e.js
+
+

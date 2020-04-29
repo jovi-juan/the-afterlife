@@ -1,0 +1,33 @@
+{
+	"tchunksHeightFactor":3,
+	
+	"videos": [{
+			"video": "trafalgar.jpg",
+			"loc":"right",
+			"offsetPercent":15,
+			"offsetPercentVideo":25,
+			"text": ["It’s one thing to see the images everywhere of empty squares and streets", ", it’s another to really see it,", " to stand still and feel the quiet of a hollowed out place at what was called rush hour."]
+		},
+		{
+			"video": "charingCross.jpg",
+			"loc":"center",
+			"offsetPercent":30,
+			"offsetPercentVideo":25,
+			"text": ["Vicious intersections, like Charing Cross and Piccadilly Circus", ", places marked in the minds of many commuters by snarling flesh and grimaced metal,", " have turned friendly and calm."]
+		},
+		{
+			"video": "bookStreet.jpg",
+			"loc":"left",
+			"offsetPercent":10,
+			"offsetPercentVideo":25,
+			"text": ["But the city itself has taken on the air of a graveyard."," What was vibrant and pulsating"," has become a burial ground for careers and paychecks and plans for the future."]
+		},
+		{
+			"video": "foodStreet.jpg",
+			"loc":"center",
+			"offsetPercent":30,
+			"offsetPercentVideo":25,
+			"text": ["The urban remnant still wandering the commercial core are sharply divided by attire."," There’s the spandexed smattering of runners",", cutting vectors through the depopulated streets, stopping for nothing."]
+		}
+	]
+}
